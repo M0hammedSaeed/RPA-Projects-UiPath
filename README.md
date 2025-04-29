@@ -37,4 +37,4 @@
 ---
 
 ## 📬 Contact 
-- Your Name: [LinkedIn](https://www.linkedin.com/in/m0hamedsaeed/) | [Email](msaeed.abdelrazek@gmail.com)
+- Mohamed Saeed: [LinkedIn](https://www.linkedin.com/in/m0hamedsaeed/) | [Email](mailto:msaeed.abdelrazek@gmail.com)
