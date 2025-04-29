@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1G6qN6YrFUaXc82OTJdChA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="worldometers.info/coronavirus/country/germany" CVScreenId="ca8da62d-6afe-4e26-9917-a3dfe26a1510" DesignTimeRectangle="426, 525, 703, 78" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl parentid='maincounter-wrap' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='maincounter-wrap' tag='DIV' type='' class='maincounter-number' aaname='               ' /&gt;" Guid="046e1579-3e6f-4ff7-9a94-cc0a6cb02ee4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Germany COVID - Coronavirus Statistics - Worldometer' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Visible">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d164eeb3-cc13-43e2-8d6c-c4648b05893b" CvTextArea="628, 481, 298, 34" CvTextArgument="Coronavirus Cases:" CvType="Text" DesignTimeRectangle="426, 473, 703, 52" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='maincounter-wrap' tag='H1' type='' class='' aaname='Coronavirus Cases:' check:innerText='Coronavirus Cases:' /&gt;" Guid="8c816762-5858-4f87-9122-7b02eee1fe5e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7e263b1fd04200b0ee5675acc15aaa85.png" xmlns="">0E9AAwbS8MUqRdElQMbOxmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

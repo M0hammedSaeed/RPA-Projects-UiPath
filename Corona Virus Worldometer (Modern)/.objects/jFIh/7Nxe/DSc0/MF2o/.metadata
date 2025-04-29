@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Coronavirus Cases",
+  "Type": "Element",
+  "Id": "MF2o6F7qFke5w_mfa6fpRQ",
+  "Reference": "kk4yhOI15kKCydMos5ccHg/MF2o6F7qFke5w_mfa6fpRQ",
+  "ParentRef": "kk4yhOI15kKCydMos5ccHg/DSc04dszS0CYeKXXEU10Rg",
+  "Created": "2025-04-29T14:00:33.1497435Z",
+  "Updated": "2025-04-29T14:00:33.1497435Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

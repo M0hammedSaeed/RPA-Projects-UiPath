@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uzWP1D1nDE-vyoGRIqP2ZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.uk/search" DesignTimeRectangle="238, 258, 652, 73" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' parentid='ixcYae' tag='DIV' class='' aaname='' check:innerText='United Kingdom COVID - Coronavirus Statistics&amp;#xA;Worldometer&amp;#xA;https://www.worldometers.info › country ›' /&gt;" Guid="4315d319-8ace-4f65-872e-ea6fc9a7696f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UK coronavirus worldometer - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b00a6ee4a421250f579bf3b80f20c969.png" xmlns="">01hJ8_YrLTkihB2zK65cM7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

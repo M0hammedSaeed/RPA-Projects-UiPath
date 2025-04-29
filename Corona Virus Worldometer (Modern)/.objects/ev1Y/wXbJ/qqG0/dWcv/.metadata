@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Recovered",
+  "Type": "Element",
+  "Id": "dWcvneHWn0-ZJSj1rNzZ-Q",
+  "Reference": "kk4yhOI15kKCydMos5ccHg/dWcvneHWn0-ZJSj1rNzZ-Q",
+  "ParentRef": "kk4yhOI15kKCydMos5ccHg/qqG0ccseYUaPw7SDmDMEqQ",
+  "Created": "2025-01-08T04:25:45.7108165Z",
+  "Updated": "2025-01-08T04:25:45.7108165Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

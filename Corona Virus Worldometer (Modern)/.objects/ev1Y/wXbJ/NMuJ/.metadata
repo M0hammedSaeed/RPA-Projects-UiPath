@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Search for Coronavirus Worldometer data",
+  "Type": "Screen",
+  "Id": "NMuJrbiSj06vGr1NZxpJng",
+  "Reference": "kk4yhOI15kKCydMos5ccHg/NMuJrbiSj06vGr1NZxpJng",
+  "ParentRef": "kk4yhOI15kKCydMos5ccHg/wXbJ7aTCfkej7D0qJ7pHxw",
+  "Created": "2025-04-28T21:04:22.5536192Z",
+  "Updated": "2025-04-28T21:04:22.5536192Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

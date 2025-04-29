@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3Nq5Emadz0KBoy72ztba7Q" Reference="kk4yhOI15kKCydMos5ccHg/HBVILPg-_U6kpeJKH5g4dw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="644b1971-7fd4-46e3-b79d-77d94e16a4bb" CvTextArea="303, 329, 90, 14" CvType="AnyWordGroup" DesignTimeRectangle="305, 326, 310, 22" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='VuuXrf' parentid='ixcYae' tag='SPAN' type='' /&gt;" Guid="5fe415b8-a771-4e52-a951-8abe8c002767" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='* coronavirus worldometer - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="644b1971-7fd4-46e3-b79d-77d94e16a4bb" DesignTimeRectangle="305, 348, 310, 20" FuzzySelectorArgument="&lt;webctrl tag='CITE' type='' class='qLRx3b tjvcx GvPZzd cHaqb' aaname='https://www.worldometers.info' check:innerText='https://www.worldometers.info › coronavirus › country' /&gt;" Guid="229e8807-3908-41c6-bf0b-834e20c67ef1" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b626af72178e94436242d7b91724fab2.png" xmlns="">0pmKMj1rXmku4rND_wXZI6A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

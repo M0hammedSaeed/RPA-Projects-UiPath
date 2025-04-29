@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x7qzBPyneEy4ctzbxkV1XQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="worldometers.info/coronavirus/country/egypt" CVScreenId="d164eeb3-cc13-43e2-8d6c-c4648b05893b" DesignTimeRectangle="426, 690, 703, 77" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl parentid='maincounter-wrap' tag='DIV' idx='2' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='maincounter-wrap' tag='DIV' type='' class='maincounter-number' aaname='              ' /&gt;" Guid="e05c4369-2058-4b1b-a74a-b81f682a602f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='* COVID - Coronavirus Statistics - Worldometer' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d164eeb3-cc13-43e2-8d6c-c4648b05893b" DesignTimeRectangle="426, 638, 703, 52" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' parentid='maincounter-wrap' tag='H1' class='' aaname='Deaths:' check:innerText='Deaths:' /&gt;" Guid="ff273754-c0da-48aa-a458-97709b31b6ec" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8696db0fd7e24e646c288a8611a45df3.png" xmlns="">0O6H3-KV_O0WRhPefKAWpMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

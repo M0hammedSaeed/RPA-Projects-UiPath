@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z2IV5G-nEE6yWCsJfyIngQ" Reference="kk4yhOI15kKCydMos5ccHg/Cq3712jAgUG73AVnjn9ghw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="worldometers.info/coronavirus/country/brazil" CVScreenId="6daab930-630a-4ff9-8194-17f477eb9cc6" DesignTimeRectangle="425, 579, 703, 77" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl parentid='maincounter-wrap' tag='DIV' type='' class='maincounter-number' aaname='               ' /&gt;" Guid="96ac3543-1fb2-4e78-a78d-3dd8d1a20b6c" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='* COVID - Coronavirus Statistics - Worldometer' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f6e7eca37f628509b20384eb5c5b7e62.png" xmlns="">03HJbahPeK0GFU_QwBnMN-w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

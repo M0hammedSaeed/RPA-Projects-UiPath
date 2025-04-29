@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Germany COVID - Coronavirus Statistics",
+  "Type": "Screen",
+  "Id": "DSc04dszS0CYeKXXEU10Rg",
+  "Reference": "kk4yhOI15kKCydMos5ccHg/DSc04dszS0CYeKXXEU10Rg",
+  "ParentRef": "kk4yhOI15kKCydMos5ccHg/7Nxevysye0SYzJLC-x__kQ",
+  "Created": "2025-04-29T13:01:52.5727981Z",
+  "Updated": "2025-04-29T13:01:52.5727981Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

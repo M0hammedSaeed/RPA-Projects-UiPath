@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Egypt Coronavirus Worldometer - Google",
+  "Type": "Screen",
+  "Id": "bCLfXZ96eEK2GbODSTgstg",
+  "Reference": "kk4yhOI15kKCydMos5ccHg/bCLfXZ96eEK2GbODSTgstg",
+  "ParentRef": "kk4yhOI15kKCydMos5ccHg/wXbJ7aTCfkej7D0qJ7pHxw",
+  "Created": "2025-04-28T18:42:34.3123074Z",
+  "Updated": "2025-04-28T18:42:34.3123074Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

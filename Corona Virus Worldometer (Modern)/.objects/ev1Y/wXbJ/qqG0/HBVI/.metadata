@@ -1,0 +1,13 @@
+﻿{
+  "Name": "httpswww.worldometer…",
+  "Type": "Element",
+  "Id": "HBVILPg-_U6kpeJKH5g4dw",
+  "Reference": "kk4yhOI15kKCydMos5ccHg/HBVILPg-_U6kpeJKH5g4dw",
+  "ParentRef": "kk4yhOI15kKCydMos5ccHg/qqG0ccseYUaPw7SDmDMEqQ",
+  "Created": "2025-01-08T04:52:08.8051606Z",
+  "Updated": "2025-01-08T04:52:08.8051606Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

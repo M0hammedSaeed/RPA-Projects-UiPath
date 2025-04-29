@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RoK5h0VvKEydbhvNCW6JUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.uk/search" DesignTimeRectangle="207, 454, 423, 57" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl parentid='rso' tag='DIV' innertext='Worldometerhttps://www.worldometers.info › coronavirus › *' idx='3' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='rso' tag='DIV' innertext='Worldometerhttps://www.worldometers.info › coronavirus › *' type='' class='CA5RN' aaname='' check:text='Worldometerhttps://www.worldometers.info › coronavirus › country' /&gt;" Guid="b067781e-204b-4ba2-a8cc-26e99ad61ce2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='usCoronavirus Worldometer - Google Search' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="148, 454, 978, 174" FullSelectorArgument="&lt;webctrl parentid='rso' tag='DIV' innertext='*Coronavirus update with statistics and graphs: total and new cases, deaths per day, mortality and recovery rates, current active cases, ...' idx='2' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='rso' tag='DIV' innertext='*Coronavirus update with statistics and graphs: total and new cases, deaths per day, mortality and recovery rates, current active cases, ...' type='' class='Y6JuXb' aaname='' check:text='United States COVID - Coronavirus StatisticsWorldometerhttps://www.worldometers.info › coronavirus › countryWorldometerhttps://www.worldometers.info › coronavirus › countryUnited States Coronavirus update with statistics and graphs: total and new cases, deaths per day, mortality and recovery rates, current active cases, ...' /&gt;" Guid="24d1fac0-ab25-4099-b0ec-0c41e0b7ce4e" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7781a6138e67e72eac397d9adbeb3268.png" xmlns="">05FLtQRCV-0yByYRj8K3MDQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

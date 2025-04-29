@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome US Coronavirus Worldometer - Google Se",
+  "Type": "Screen",
+  "Id": "OInn6g9s7EqgoQK0fRy8Fw",
+  "Reference": "kk4yhOI15kKCydMos5ccHg/OInn6g9s7EqgoQK0fRy8Fw",
+  "ParentRef": "kk4yhOI15kKCydMos5ccHg/wXbJ7aTCfkej7D0qJ7pHxw",
+  "Created": "2025-04-29T12:10:33.0147207Z",
+  "Updated": "2025-04-29T12:10:33.0147207Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="496fhY4nTkOcRRZFWN86qg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="49bc00c0-5cfd-409e-bea6-f1052303916f" CvTextArea="260, 377, 366, 23" CvTextArgument="Egypt COVID - Coronavirus Statistics" CvType="Text" DesignTimeRectangle="261, 369, 364, 34" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='LC20lb MBeuO DKV0Md' aaname='Egypt COVID - Coronavirus Statistics' check:innerText='Egypt COVID - Coronavirus Statistics' /&gt;" Guid="d2ac69c2-f90c-468a-aabc-368114930603" ScopeSelectorArgument="&lt;html app='chrome.exe' title='egypt coronavirus worldometer - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3cadd47cf3b8dd3c3a058bc31e02c29d.png" xmlns="">0GDs-ddGiEEaMxcurJlGfew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
