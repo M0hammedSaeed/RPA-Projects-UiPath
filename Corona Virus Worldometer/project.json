@@ -1,7 +1,7 @@
 {
   "name": "Corona Virus Worldometer",
   "projectId": "22792793-4aaf-4175-85b6-44ae34a7f341",
-  "description": "",
+  "description": "Automate the extraction of COVID-19 statistics (Cases, Deaths, Recovered) for a user-input country from the \"Coronavirus Worldometer\" website and display the results in an output log.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[24.10.7]",
