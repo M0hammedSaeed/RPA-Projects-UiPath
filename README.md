@@ -28,7 +28,7 @@
 
 | Project Name | Description | Demo/Link |
 |--------------|-------------|-----------|
-| **Invoice Processing Bot** | Automates PDF invoice extraction and Excel data entry. | [View Workflow](/projects/invoice-processing) |
+| **Corona Virus Worldometer** | Automate the extraction of COVID-19 statistics (Cases, Deaths, Recovered) for a user-input country from the "Coronavirus Worldometer" website and display the results in an output log. | [View Workflow](/projects/invoice-processing) |
 | **CRM Data Sync** | Syncs Salesforce leads with internal databases. | [View Workflow](/projects/crm-sync) |
 | **Email Automation** | Sends personalized emails with dynamic attachments. | [View Workflow](/projects/email-automation) |
 | **Web Scraping Bot** | Extracts product data from e-commerce sites. | [View Workflow](/projects/web-scraping) |
