@@ -1,5 +1,5 @@
-# 🚀 RPA Automation Projects with UiPath
-
+# 🚀 RPA Automation Projects with UiPath 🤖
+ 
 *A collection of Robotic Process Automation (RPA) workflows built with UiPath to streamline repetitive tasks and enhance productivity.*
 
 ---
@@ -8,10 +8,6 @@
 - [Features](#features)
 - [Projects](#projects)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -28,22 +24,17 @@
 
 | Project Name | Description | Demo Video | Repo Link | 
 |--------------|-------------|------------|-----------|
-| **Corona Virus Worldometer** | Automate the extraction of COVID-19 statistics (Cases, Deaths, Recovered) for a user-input country from the "Coronavirus Worldometer" website and display the results in an output log. | [View Workflow](/Corona%20Virus%20Worldometer) | [Invoice Processing](/projects/invoice-processing) |
-| **CRM Data Sync** | Syncs Salesforce leads with internal databases. | [View Workflow](/projects/crm-sync) |
-| **Email Automation** | Sends personalized emails with dynamic attachments. | [View Workflow](/projects/email-automation) |
-| **Web Scraping Bot** | Extracts product data from e-commerce sites. | [View Workflow](/projects/web-scraping) |
+| **Corona Virus Worldometer** | Automate the extraction of COVID-19 statistics (Cases, Deaths, Recovered) for a user-input country from the "Coronavirus Worldometer" website and display the results in an output log. | [Watch on YouTube](https://www.youtube.com/watch?v=XqKEW6Bv-m8) | [Repo_Classic](/Corona%20Virus%20Worldometer) <br> [Repo_Modern](/Corona%20Virus%20Worldometer%20(Modern)) |
+
 
 ---
 
 ## ⚙️ Prerequisites
-- [UiPath Studio](https://www.uipath.com/product/studio) (Community/Enterprise Edition)
-- .NET Framework 4.6.1+
-- Required Packages: `UiPath.Excel.Activities`, `UiPath.Mail.Activities`
-- API Keys/Credentials (for integrations like Salesforce/Gmail).
+- [UiPath Studio](https://www.uipath.com/downloads) (Community/Enterprise Edition).
+- Basic knowledge of RPA concepts and UiPath Activities.
+
 
 ---
 
-## 📥 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/RPA-Projects-UiPath.git
+## 📬 Contact 
+- Your Name: [LinkedIn](https://www.linkedin.com/in/m0hamedsaeed/) | [Email](msaeed.abdelrazek@gmail.com)
