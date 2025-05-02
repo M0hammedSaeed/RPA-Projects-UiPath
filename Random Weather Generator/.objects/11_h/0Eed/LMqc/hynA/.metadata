@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Wind Force",
+  "Type": "Element",
+  "Id": "hynAF-jB0UmFkVo8DR1cYw",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/hynAF-jB0UmFkVo8DR1cYw",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/LMqcvxWdOESjQtJ3cYjvEg",
+  "Created": "2025-01-13T05:12:07.5119328Z",
+  "Updated": "2025-01-13T05:12:07.5119328Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

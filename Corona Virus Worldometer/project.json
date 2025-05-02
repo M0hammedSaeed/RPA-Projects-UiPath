@@ -50,6 +50,48 @@
       "uniqueId": "b21c34e4-b927-4cec-98ed-ec7574188371",
       "input": [],
       "output": []
+    },
+    {
+      "filePath": "Browser_Close.xaml",
+      "uniqueId": "6e916370-04da-4be7-a764-91d476635af2",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Browser_ExtractData.xaml",
+      "uniqueId": "38bdafeb-8780-441c-867f-62a07f439785",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Browser_OpenGoogle.xaml",
+      "uniqueId": "807a6780-5388-441d-ada7-7ae40f791dda",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Browser_Search.xaml",
+      "uniqueId": "3146a342-03f5-4b45-9f6f-59c65a9c232e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Browser_SelectFromTheResult.xaml",
+      "uniqueId": "6a30eeda-8da7-4e0b-98ef-5785262a31c7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "User_DisplayData.xaml",
+      "uniqueId": "3e1a3bf4-db05-4365-b616-096327c7b0d1",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "User_InputCountryName.xaml",
+      "uniqueId": "cb2df78b-28a1-4a95-a33d-a18df8bedff6",
+      "input": [],
+      "output": []
     }
   ],
   "isTemplate": false,

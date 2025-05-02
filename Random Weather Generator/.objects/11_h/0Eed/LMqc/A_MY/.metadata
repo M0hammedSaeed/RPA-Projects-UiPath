@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Wind Speed",
+  "Type": "Element",
+  "Id": "A_MY2_Lu5UqgrjqhNxLIgA",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/A_MY2_Lu5UqgrjqhNxLIgA",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/LMqcvxWdOESjQtJ3cYjvEg",
+  "Created": "2025-01-13T05:13:08.4860467Z",
+  "Updated": "2025-01-13T05:13:08.4860467Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

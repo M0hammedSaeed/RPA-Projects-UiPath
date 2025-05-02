@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WFhNdMDutkOfHFSE0ZsnHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7e66c3df-8121-4496-b543-cebeb3f2778b" DesignTimeRectangle="211, 64, 124, 16" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlid='1137' /&gt;&lt;wnd ctrlid='1001' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1137' /&gt;&lt;wnd ctrlid='1001' /&gt;" Guid="857e139d-7cee-4a58-b222-2c19c9f7ff17" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32770' title='Font' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7e66c3df-8121-4496-b543-cebeb3f2778b" CvTextArea="207, 45, 56, 15" CvTextArgument="Font style:" CvType="Text" DesignTimeRectangle="208, 44, 130, 17" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlid='1089' title='Font st&amp;amp;yle:' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1089' title='Font st&amp;amp;yle:' check:text='Font st&amp;amp;yle:' /&gt;" Guid="f16461c1-690b-41a3-832b-ed67cc671816" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="524442320632584cb2e7e2f75ab65298.png" xmlns="">03zps2JH030CmaFkP94B0Rg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

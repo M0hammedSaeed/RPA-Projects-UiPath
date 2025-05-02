@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Font st&yle",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "U_jlCbu0RkSFbugZ9K1q4w",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/U_jlCbu0RkSFbugZ9K1q4w",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/GJ9je67wv0Sv1o7rntFs5A",
+  "Created": "2025-01-13T06:02:45.9287156Z",
+  "Updated": "2025-01-13T06:02:45.9287156Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

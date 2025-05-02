@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Font...",
+  "Type": "Element",
+  "Id": "jaO7vkiVvE-z3HpqIpT46A",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/jaO7vkiVvE-z3HpqIpT46A",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/GJ9je67wv0Sv1o7rntFs5A",
+  "Created": "2025-01-13T05:59:57.3150176Z",
+  "Updated": "2025-01-13T05:59:57.3150176Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

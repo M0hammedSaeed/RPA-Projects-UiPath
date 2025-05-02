@@ -79,7 +79,7 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="User_InputNumberOfMovies" sap:VirtualizedContainerService.HintSize="1472,796.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="User_InputNumberOfMovies" sap:VirtualizedContainerService.HintSize="1535,811.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>

@@ -102,7 +102,7 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:LogMessage DisplayName="Log coronavirus statistics information" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Coronavirus Cases :&quot; &amp; in_strCases &amp; Environment.NewLine &amp; &#xD;&#xA;&quot;Deaths :&quot; &amp; in_strDeaths &amp; Environment.NewLine &amp;&#xD;&#xA;&quot;Recovered :&quot; &amp; in_strRecovered]" />
+      <ui:LogMessage DisplayName="Log coronavirus statistics information" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Coronavirus Cases :&quot; &amp; in_strCases &amp; Environment.NewLine &amp; &#xA;&quot;Deaths :&quot; &amp; in_strDeaths &amp; Environment.NewLine &amp;&#xA;&quot;Recovered :&quot; &amp; in_strRecovered]" />
     </Sequence>
   </Sequence>
 </Activity>

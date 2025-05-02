@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Format",
+  "Type": "Element",
+  "Id": "H108-N29RkuekKftpL4CRA",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/H108-N29RkuekKftpL4CRA",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/GJ9je67wv0Sv1o7rntFs5A",
+  "Created": "2025-01-13T05:57:50.2370071Z",
+  "Updated": "2025-01-13T05:57:50.2370071Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
