@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Lunar Clouds Mist and …",
+  "Type": "Element",
+  "Id": "5jlg6KQj60mt9zNtrbg1qA",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/5jlg6KQj60mt9zNtrbg1qA",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/LMqcvxWdOESjQtJ3cYjvEg",
+  "Created": "2025-01-13T05:15:03.5249337Z",
+  "Updated": "2025-01-13T05:15:03.5249337Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strFilePath&Sequence_12",
+        "strDescription&Sequence_12",
+        "strTemperature&Sequence_12",
+        "strHighTemp&Sequence_12",
+        "strLowTemp&Sequence_12",
+        "strRelative&Sequence_12",
+        "strWindForce&Sequence_12",
+        "strWindSpeed&Sequence_12",
+        "strMoreInfo&Sequence_12"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Saving.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "RootFile&Sequence_10"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ReportSavedPath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

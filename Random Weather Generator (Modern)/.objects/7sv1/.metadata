@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Random Weather Generator.txt - Notepad",
+  "Type": "App",
+  "Id": "7sv12RAyCEezqXLWEfgy3w",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/7sv12RAyCEezqXLWEfgy3w",
+  "Created": "2025-01-13T05:45:49.4406604Z",
+  "Updated": "2025-01-13T05:45:49.4406604Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

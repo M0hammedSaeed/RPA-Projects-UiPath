@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save As... Ctrl+Shift+S",
+  "Type": "Element",
+  "Id": "gVHL3Kts7kuuOS2sbH2nWw",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/gVHL3Kts7kuuOS2sbH2nWw",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/GJ9je67wv0Sv1o7rntFs5A",
+  "Created": "2025-01-13T06:12:08.705536Z",
+  "Updated": "2025-01-13T06:12:08.705536Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

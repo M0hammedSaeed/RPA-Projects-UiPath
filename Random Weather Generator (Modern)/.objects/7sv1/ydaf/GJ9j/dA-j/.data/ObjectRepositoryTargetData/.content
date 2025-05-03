@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XrAAIV__bUyWiNys_A8UrA" Reference="8hsnq-8-XEmQfvu8BQsAYg/dA-jrHFuv0CvY4uHcFH9ww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="115, 37, 570, 22" DesignTimeScaleFactor="1" ElementType="Toolbar" FullSelectorArgument="&lt;wnd ctrlid='1001' title='Address: E:\RPA_Projects\Task_2' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1001' title='Address: E:\RPA_Projects\Task_2' check:text='Address: E:\RPA_Projects\Task_2' /&gt;" Guid="76925a97-210a-474c-b28d-90e1d9703ccb" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="113, 33, 614, 28" FullSelectorArgument="&lt;wnd ctrlid='41477' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='41477' check:text='E:\RPA_Projects\Task_2' /&gt;" Guid="7556618e-ba3e-45fa-a7b8-821e7614d0ff" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7044a7eb84917f0f7598d42cbcb4145f.png" xmlns="">0htrDeJzz-0iAbVStKJWShg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

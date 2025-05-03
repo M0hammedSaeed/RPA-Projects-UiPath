@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uKU9D8pdekOyDn-yakpASA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="donjon.bin.sh/d20/weather" CVScreenId="9bfbb6b6-1fc1-4cdb-ad0f-8f3a2ef31fa1" CvTextArea="775, 508, 204, 18" CvType="AnyWordGroup" DesignTimeRectangle="706, 502, 364, 27" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='cell' type='' tag='DIV' aaname=' ' /&gt;" Guid="5e031cea-b3e6-4886-b785-61ddb7df5bca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='donjon; Random Weather Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9bfbb6b6-1fc1-4cdb-ad0f-8f3a2ef31fa1" DesignTimeRectangle="714, 502, 174, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Temperature:' class='key' tag='DIV' type='' check:innerText='Temperature:' /&gt;" Guid="0f0eebb9-c234-411c-a6a8-071d63d0e155" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="372f13a880353326b5116a5d6270be88.png" xmlns="">0okeiErIAoECSk0mg2ebgIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

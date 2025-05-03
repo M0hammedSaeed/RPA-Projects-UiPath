@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Description Snowstor…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Oy-ue9UUM0uOQzOr4bxfmQ",
+  "Reference": "8hsnq-8-XEmQfvu8BQsAYg/Oy-ue9UUM0uOQzOr4bxfmQ",
+  "ParentRef": "8hsnq-8-XEmQfvu8BQsAYg/GJ9je67wv0Sv1o7rntFs5A",
+  "Created": "2025-01-13T05:51:31.9851986Z",
+  "Updated": "2025-01-13T05:51:31.9851986Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
