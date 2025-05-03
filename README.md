@@ -8,7 +8,7 @@
 
 | Project Name | Description | Demo Video | Repo Link | 
 |--------------|-------------|------------|-----------|
-| **Random Weather Generator** | This RPA (Robotic Process Automation) project automates the process of generating random weather data based on user-defined criteria, extracting relevant information, and saving it into a structured text file within the project directory. The bot will interact with a random weather data generator, retrieve data such as temperature (High, Low, Relative), Wind (Force, speed), and mor information, and store it locally and log it. | [View](https://youtu.be/nxPtOnRx7Z4) | [Link](/Random%20Weather%20Generator) |
+| **Random Weather Generator** | This RPA (Robotic Process Automation) project automates the process of generating random weather data based on user-defined criteria, extracting relevant information, and saving it into a structured text file within the project directory. The bot will interact with a random weather data generator, retrieve data such as temperature (High, Low, Relative), Wind (Force, speed), and mor information, and store it locally and log it. | [View](https://youtu.be/nxPtOnRx7Z4) | [Link](/Random%20Weather%20Generator) <br> [Modern](/Random%20Weather%20Generator%20(Modern)) |
 | **Corona Virus Worldometer** | Automate the extraction of COVID-19 statistics (Cases, Deaths, Recovered) for a user-input country from the "Coronavirus Worldometer" website and display the results in an output log. | [View](https://youtu.be/XqKEW6Bv-m8) | [Classic](/Corona%20Virus%20Worldometer) <br> [Modern](/Corona%20Virus%20Worldometer%20(Modern)) |
 
 ---
